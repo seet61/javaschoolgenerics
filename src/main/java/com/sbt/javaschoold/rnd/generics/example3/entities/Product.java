@@ -44,7 +44,7 @@ public class Product {
     @Override
     public String toString() {
         return "Product{" +
-                "beginDate=" + beginDate +
+                "beginDate=" + beginDate + "; productNumber=" + productNumber +
                 '}';
     }
 }
